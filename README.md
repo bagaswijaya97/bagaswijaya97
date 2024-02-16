@@ -1,14 +1,23 @@
-### Hi there 👋
+### Howdy! 👋
+I'm Bagas Wijaya, a Back-End Developer .NET
 
-**bagaswijaya97/bagaswijaya97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since October 2019, I've been on an epic adventure in the world of Back-End development with .NET . As a developer, I explore different technologies and frameworks, like an explorer discovering new lands. My passion for creating reliable and efficient digital solutions keeps burning, pushing me to continuously learn and grow, like a hero who never gets tired on his journey.
 
-Here are some ideas to get you started:
+🛠️ My Skills:
+•	Back-End Development .NET: ASP.NET Core, Entity Framework, C#, RESTful API, .Net MVC Framework
+•	Front-End Web Development: Razor, HTML, CSS, JQuery, Javascript
+•	Cloud Technologies: Google Cloud Platform (Basically)
+•	Databases: SQL Server, MySQL, PostgreSQL, Oracle
+•	Agile Methodologies: Scrum, Kanban
+•	Testing: Automation (JMeter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+❤️ I'm Happy to Help:
+•	Share knowledge and experience about .NET (like sharing stories about the journey)
+•	Collaborate on Open Source projects (like working together in a team to achieve a common goal)
+•	Provide solutions to Back-End problems (like helping others who are lost on the journey)
+
+🚙 Join me on the adventure!
+•	Github: [github.com/bagaswijaya97]
+•	LinkedIn: [https://www.linkedin.com/in/bagaswijaya/]
+•	Email: [bagaswijaya256@gmail.com]
+
