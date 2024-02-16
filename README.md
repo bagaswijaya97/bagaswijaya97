@@ -32,7 +32,7 @@ Since October 2019, I've been on an epic adventure in the world of Back-End deve
 
 🚙 Join me on the adventure!
 
-•	Github: [github.com/bagaswijaya97]
+•	Github: [github.com/bagaswijaya97](https://github.com/bagaswijaya97)]
 
 •	LinkedIn: [https://www.linkedin.com/in/bagaswijaya/]
 
