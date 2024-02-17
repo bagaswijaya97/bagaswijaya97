@@ -31,14 +31,11 @@ Since October 2019, I've been on an epic adventure in the world of Back-End deve
 #
 ### 🚙💨 Join me on the adventure!
 
-•	Github: [Here](https://github.com/bagaswijaya97 "Bagas Wijaya")
+•	Github: **[bagaswijaya97](https://github.com/bagaswijaya97 "Bagas Wijaya")**
 
-•	LinkedIn: [Here](https://www.linkedin.com/in/bagaswijaya/)
+•	LinkedIn: **[Bagas Wijaya](https://www.linkedin.com/in/bagaswijaya/)**
 
-•	Email: bagaswijaya256@gmail.com
+•	Email: **bagaswijaya256@gmail.com**
 
-**[Your Name](https://www.linkedin.com/in/your-linkedin-profile "LinkedIn")**
-
-Check out my LinkedIn profile to learn more about me and my work!
 
 
