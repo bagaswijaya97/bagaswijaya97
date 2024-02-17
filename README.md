@@ -4,7 +4,8 @@ I'm Bagas Wijaya, a Back-End Developer .NET
 
 Since October 2019, I've been on an epic adventure in the world of Back-End development with .NET . As a developer, I explore different technologies and frameworks, like an explorer discovering new lands. My passion for creating reliable and efficient digital solutions keeps burning, pushing me to continuously learn and grow, like a hero who never gets tired on his journey.
 
-🛠️ My Skills:
+#
+### 🛠️ My Skills:
 
 •	Back-End Development .NET: ASP.NET Core, Entity Framework, C#, RESTful API, .Net MVC Framework
 
