@@ -31,6 +31,8 @@ Since October 2019, I've been on an epic adventure in the world of Back-End deve
 #
 ### 🚙💨 Join me on the adventure!
 
+•	Github: [Here](<a href="https://www.linkedin.com/in/nama-anda" target="_blank">LinkedIn Saya</a>")
+
 •	Github: [Here](https://github.com/bagaswijaya97 "Bagas Wijaya")
 
 •	LinkedIn: [Here](https://www.linkedin.com/in/bagaswijaya/)
