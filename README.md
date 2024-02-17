@@ -7,13 +7,13 @@ Since October 2019, I've been on an epic adventure in the world of Back-End deve
 #
 ### 🛠️ My Skills:
 
-•	Back-End Development .NET: ASP.NET Core, Entity Framework, C#, RESTful API, .Net MVC Framework
+•	Back-End Development .NET: ASP.NET Core, Entity Framework, C#, RESTful API, .Net MVC Framework, Object Oriented Programming, Microservices
 
 •	Front-End Web Development: Razor, HTML, CSS, JQuery, Javascript
 
-•	Cloud Technologies: Google Cloud Platform (Basically)
+•	Infrastructure: IIS (Internet Information Services), Google Cloud Platform (Basically), Docker (Basically)
 
-•	Databases: SQL Server, MySQL, PostgreSQL, Oracle
+•	Databases: SQL Server, MySQL, PostgreSQL, Oracle, Stored Procedure or Function, Scheduler or Task
 
 •	Agile Methodologies: Scrum, Kanban
 
