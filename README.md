@@ -29,7 +29,7 @@ Since October 2019, I've been on an epic adventure in the world of Back-End deve
 •	Provide solutions to Back-End problems (like helping others who are lost on the journey)
 
 #
-### 🚙 Join me on the adventure!
+### 🚙💨 Join me on the adventure!
 
 •	Github: [Here](https://github.com/bagaswijaya97)
 
