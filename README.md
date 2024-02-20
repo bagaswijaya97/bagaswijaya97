@@ -36,6 +36,3 @@ Since October 2019, I've been on an epic adventure in the world of Back-End deve
 •	LinkedIn: **[Bagas Wijaya](https://www.linkedin.com/in/bagaswijaya/)**
 
 •	Email: **bagaswijaya256@gmail.com**
-
-
-
