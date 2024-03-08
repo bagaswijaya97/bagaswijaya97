@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Bagas Wijaya, a Back-End Developer .NET
 
-Since October 2019, I've been on an epic adventure in the world of Back-End development with .NET . As a developer, I explore different technologies and frameworks, like an explorer discovering new lands. My passion for creating reliable and efficient digital solutions keeps burning, pushing me to continuously learn and grow, like a hero who never gets tired on his journey.
+Since October 2019, I've been on an epic adventure in the world of Back-End development with .NET Framework. As a developer, I explore different technologies and frameworks, like an explorer discovering new lands. My passion for creating reliable and efficient digital solutions keeps burning, pushing me to continuously learn and grow, like a hero who never gets tired on his journey.
 
 ### Those are my profiles
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseigor/)](https://www.linkedin.com/in/bagaswijaya/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Igor03)](https://github.com/bagaswijaya97) [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/carvalho_joseigor/)](https://www.instagram.com/bagaswiijaya/)
